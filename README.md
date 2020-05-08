@@ -9,5 +9,9 @@ To build this project, accept the SDK license agreements and install the missing
 
 
 https://github.com/jitpack/jitpack.io/issues/3686
+
 https://github.com/jitpack/jitpack.io/issues/3685
+
 https://github.com/jitpack/jitpack.io/issues/3684
+
+https://github.com/jitpack/jitpack.io/issues/3687
